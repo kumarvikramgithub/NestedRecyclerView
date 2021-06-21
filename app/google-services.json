@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478046772963",
+    "project_id": "nestedrecyclerview-d748e",
+    "storage_bucket": "nestedrecyclerview-d748e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478046772963:android:7695a7c74a5e13adeeefd6",
+        "android_client_info": {
+          "package_name": "com.example.nestedrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478046772963-slifev9v8dunif1jiqkjg8k6b4l0eiok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXLHQ1eM7tP2tRHiS5FWQYavqAkzJQkAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478046772963-slifev9v8dunif1jiqkjg8k6b4l0eiok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

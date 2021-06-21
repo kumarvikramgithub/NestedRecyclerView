@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NestedRecyclerView</string>
+    <string name="number">Number</string>
+    <string name="image">image</string>
+    <string name="hii">hii</string>
+    <string name="tv_no">Tv no</string>
+    <string name="submit">Submit</string>
+    <string name="input">Input</string>
+</resources>
